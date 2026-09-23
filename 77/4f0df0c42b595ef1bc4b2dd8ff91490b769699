@@ -1,0 +1,23 @@
+scripts/docker-clean.sh
+  s_aab39325384bfc::t_5ee0a7eaa95697 1-108
+scripts/docker-pull-run.sh
+  s_aab39325384bfc::t_f9813ab939567c 1-122
+scripts/docker-build-push.sh
+  s_aab39325384bfc::t_b1899222a5e1aa 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.5",
+  "base_commit_sha": "774f0df0c42b595ef1bc4b2dd8ff91490b769699",
+  "prompts": {},
+  "sessions": {
+    "s_aab39325384bfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0bf876c-21de-4748-874b-dd2b6535d518",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
