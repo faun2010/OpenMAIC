@@ -1,0 +1,21 @@
+scripts/docker-build-push.sh
+  s_aab39325384bfc::t_b1899222a5e1aa 1-52
+scripts/docker-pull-run.sh
+  s_aab39325384bfc::t_f9813ab939567c 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.5",
+  "base_commit_sha": "a6781fc3bd23eb6af6d579e45d221054cb4a8cc5",
+  "prompts": {},
+  "sessions": {
+    "s_aab39325384bfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0bf876c-21de-4748-874b-dd2b6535d518",
+        "model": "claude-opus-5"
+      },
+      "human_author": "panzm <panzm@fullhan.com>"
+    }
+  }
+}
